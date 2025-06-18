@@ -1,0 +1,13 @@
+{
+  "itemGroup.therenddimension": "Example Mod Tab",
+  "block.therenddimension.example_block": "Example Block",
+  "item.therenddimension.example_item": "Example Item",
+
+  "therenddimension.configuration.title": "The Rend Dimension Configs",
+  "therenddimension.configuration.section.therenddimension.common.toml": "The Rend Dimension Configs",
+  "therenddimension.configuration.section.therenddimension.common.toml.title": "The Rend Dimension Configs",
+  "therenddimension.configuration.items": "Item List",
+  "therenddimension.configuration.logDirtBlock": "Log Dirt Block",
+  "therenddimension.configuration.magicNumberIntroduction": "Magic Number Text",
+  "therenddimension.configuration.magicNumber": "Magic Number"
+}
